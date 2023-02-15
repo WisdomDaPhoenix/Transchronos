@@ -1,1 +1,1 @@
-# Transchronos
+# Transchronos is a translator app. While many apps may require a signup process or file upload to translate from english to spanish, this app makes it user-friendly. Generate the UI using the command line command for python. python app.py or python3 app.py. Enter a phrase in english to be translated and click "Translate". Expect new changes to be made soon. Enjoy!
